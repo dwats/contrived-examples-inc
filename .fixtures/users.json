@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "first": "Bob",
+    "last": "Test",
+    "departments": [ 1 ],
+    "email": "bob@abc.net",
+    "active": true,
+    "lastLogin": "1549588077457"
+  },  {
+    "id": 2,
+    "first": "Tom",
+    "last": "Test",
+    "departments": [ 2, 3 ],
+    "email": "tom@abc.net",
+    "active": true,
+    "lastLogin": "1549068300000"
+  },  {
+    "id": 3,
+    "first": "Rob",
+    "last": "Test",
+    "departments": [ 3 ],
+    "email": "Rob@abc.net",
+    "active": true,
+    "lastLogin": "1549414740000"
+  },  {
+    "id": 4,
+    "first": "Bert",
+    "last": "Test",
+    "departments": [ 2, 3 ],
+    "email": "Bert@abc.net",
+    "active": true,
+    "lastLogin": "1543538340000"
+  },  {
+    "id": 5,
+    "first": "Chad",
+    "last": "Test",
+    "departments": [ 4 ],
+    "email": "Chad@abc.net",
+    "active": false,
+    "lastLogin": "1524266400000"
+  },  {
+    "id": 6,
+    "first": "Kat",
+    "last": "Test",
+    "departments": [ 1, 4 ],
+    "email": "Kat@abc.net",
+    "active": true,
+    "lastLogin": "1549498980000"
+  }
+]
